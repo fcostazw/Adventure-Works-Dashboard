@@ -29,3 +29,7 @@ This dashboard was designed to provide a clear overview of sales performance usi
 * Improved decision-making process
 * Enhanced sales performance visibility
 * Streamlined reporting workflow
+
+<br>
+
+![Adventure_Works](https://github.com/user-attachments/assets/4e3c0ea8-91d7-4eb3-9fc7-67474f2d0d06)
